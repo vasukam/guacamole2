@@ -3,3 +3,4 @@ two avocados
 pinch of salt
 one lime
 fresh cilantro
+(Dictionary to spell instructions correctly)
